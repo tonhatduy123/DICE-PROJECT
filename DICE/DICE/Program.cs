@@ -6,7 +6,7 @@ namespace DICE
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Le Kha Van");
         }
     }
 }
